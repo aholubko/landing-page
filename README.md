@@ -42,8 +42,8 @@ This project was implemented based on a Figma design:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/aholubko/2048-game.git
-cd 2048-game
+git clone https://github.com/aholubko/landing-page.git
+cd landing-page
 ```
 
 ### 2. Install dependencies
