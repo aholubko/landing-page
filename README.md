@@ -39,13 +39,43 @@ This project was implemented based on a Figma design:
 
 ## Getting Started
 
+### 1. Clone the repository
+
 ```bash
+git clone https://github.com/aholubko/2048-game.git
+cd 2048-game
+```
 
-git clone https://github.com/aholubko/landing-page.git
+### 2. Install dependencies
 
-cd landing-page
-
+```bash
 npm install
+```
 
+### 3. Run the project locally
+
+```bash
 npm start
+```
+
+## Available Scripts
+
+Run the tests:
+
+```bash
+npm test
+```
+
+Run the project locally:
+
+```bash
+npm start
+```
+
+Deploy the project to GitHub Pages:
+
+```bash
+npm run deploy
+```
+
 
