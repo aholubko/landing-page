@@ -6,7 +6,7 @@ The project demonstrates semantic HTML structure, reusable SCSS components, resp
 
 ## Live Preview
 
-[View the live website](https://aholubko.github.io/landing-page.git/)
+[View the live website](https://aholubko.github.io/landing-page/)
 
 ## Design Reference
 
@@ -39,16 +39,13 @@ This project was implemented based on a Figma design:
 
 ## Getting Started
 
-Follow these instructions to run the project locally.
+```bash
 
-### 1. Clone the repository
 git clone https://github.com/aholubko/landing-page.git
+
 cd landing-page
 
-### 2. Install dependencies
 npm install
 
-### 3. Run the project locally
 npm start
 
-The project will open automatically in your browser. If it does not, use the local address displayed in the terminal.
